@@ -1,3 +1,3 @@
 # NLP Tweet-Emotion-Recognition
 
-An algorithm for the classification of emotions in tweets.
+NLP project with a LSTM model for multiclass text classification to infer the emotion of a tweet from a set of 6 labels
